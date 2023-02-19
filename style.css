@@ -13,7 +13,7 @@ body {
   position: relative;
   max-width: auto;
   overflow-y: auto;
-  overflow-x: hidden;
+  overflow-x: auto;
   background-color: #010101;
 }
 .landingpage::before {
