@@ -74,7 +74,6 @@ body {
   display: flex;
   justify-content: space-between;
   padding-bottom: 30px;
-  border-top: 1px solid #F2F2F2;
 }
 
 .navbar .hamburgerlogowrap {
